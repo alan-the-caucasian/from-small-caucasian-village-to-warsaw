@@ -7,7 +7,7 @@
 - **Онлайн**: [Страница автора на Wattpad](https://www.wattpad.com/user/sokolking)
 
 ## Как скачать
-- **Электронная версия (FB2)**: [Ссылка для скачивания](https://raw.githubusercontent.com/alan-the-caucasian/from-small-caucasian-village-to-warsaw/refs/heads/main/book.fb2)
+- **Электронная версия (FB2)**: [Ссылка для скачивания](https://github.com/alan-the-caucasian/from-small-caucasian-village-to-warsaw/releases/download/release/book.fb2)
 
 > Подходит для чтения на телефонах и большинстве устройств для электронных книг.
 

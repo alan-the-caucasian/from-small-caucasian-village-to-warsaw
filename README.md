@@ -4,10 +4,11 @@
 Эта книга — честная и ироничная история переезда в Польшу, где вместо скучных инструкций вас ждут реальные приключения: путешествие на двух «буханках», угон одной из них хитрым автомехаником, поиски визы по всему миру и попытки объясниться с польскими чиновниками. Готовы смеяться?
 
 ## Где читать
-- **Онлайн**: [Страница автора на Wattpad](https://www.wattpad.com/user/sokolking)
+- **на Wattpad**: [Страница автора на Wattpad](https://www.wattpad.com/user/sokolking)
 
 ## Как скачать
-- **Электронная версия (FB2)**: [Ссылка для скачивания](https://github.com/alan-the-caucasian/from-small-caucasian-village-to-warsaw/releases/latest/download/book.fb2)
+- **FB2**: [Ссылка для скачивания FB2](https://github.com/alan-the-caucasian/from-small-caucasian-village-to-warsaw/releases/latest/download/book.fb2)
+- **PDF**: [Ссылка для скачивания PDF](https://raw.githubusercontent.com/alan-the-caucasian/from-small-caucasian-village-to-warsaw/refs/heads/main/book.pdf)
 
 > Подходит для чтения на телефонах и большинстве устройств для электронных книг.
 
